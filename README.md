@@ -1,4 +1,4 @@
-# Learning Tensorflow
+# Learning TensorFlow
 
 I'm just learning TensorFlow from the tutorials at: 
 
