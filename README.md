@@ -1,6 +1,6 @@
 # Learning Tensorflow
 
-I'm just learning the TensorFlow framework from the tutorials at: 
+I'm just learning TensorFlow from the tutorials at: 
 
 https://www.tensorflow.org/get_started
 
